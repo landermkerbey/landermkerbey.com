@@ -1,3 +1,0 @@
-#+TITLE: landermkerbey.com
-
-Source code for landermkerbey.com
